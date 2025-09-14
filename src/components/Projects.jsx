@@ -75,14 +75,14 @@ const Projects = () => {
 
     {
       id: 5,
-      title: 'Python File Organizer',
-      description: 'A Symfony-based website that showcases my early work in web development.',
-      longDescription: 'My first professional web development project during internship. A fully functional business website with content management, responsive design, and SEO optimization.',
+      title: 'OrganizeMyFiles',
+      description: 'A desktop application that helps users organize their files automatically based on predefined rules.',
+      longDescription: 'A simple Python script that helps you organize files in a folder into categorized subfolders (Images, Documents, Videos, Music, Archives, and Others). It also gives you the option to clean your Windows Recycle Bin.',
       tech: ['Symfony', 'PHP', 'MySQL', 'Bootstrap'],
-      link: 'https://pescamar.info',
-      icon: '🐟',
-      color: '#96CEB4',
-      status: 'Live'
+      link: 'https://github.com/andreatsilva/OrganizeMyFiles',
+      icon: '✅',
+      color: '#4ECDC4',
+      status: 'Completed'
     }
   ];
 
