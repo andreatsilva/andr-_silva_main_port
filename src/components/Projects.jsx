@@ -30,7 +30,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'Support Engineering Scriptsr',
+      title: 'Support Engineering Scripts',
       description: 'A collection of scripts for application support, CI/CD monitoring, and automation.  These scripts are designed to improve reliability, reduce manual work, and speed up troubleshooting.',
       longDescription: 'Built with Python and Bash.',
       tech: ['Python', 'Bash', 'Linux', 'Automation'],
