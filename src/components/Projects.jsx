@@ -30,11 +30,11 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'PDF Manager',
-      description: 'A practical tool for managing PDF files with features like merging, splitting, and editing.',
-      longDescription: 'Built with Python and tkinter, this desktop application provides an intuitive interface for common PDF operations. Features include batch processing, password protection, and metadata editing.',
-      tech: ['Python', 'tkinter', 'PyPDF2'],
-      link: 'https://github.com/andreatsilva/pdf-manager',
+      title: 'Support Engineering Scriptsr',
+      description: 'A collection of scripts for application support, CI/CD monitoring, and automation.  These scripts are designed to improve reliability, reduce manual work, and speed up troubleshooting.',
+      longDescription: 'Built with Python and Bash.',
+      tech: ['Python', 'Bash', 'Linux', 'Automation'],
+      link: 'https://github.com/andreatsilva/support-engineering-scripts',
       icon: '��',
       color: '#FF6B6B',
       status: 'Completed'
@@ -64,6 +64,17 @@ const Projects = () => {
     {
       id: 4,
       title: 'Pescamar Website',
+      description: 'A Symfony-based website that showcases my early work in web development.',
+      longDescription: 'My first professional web development project during internship. A fully functional business website with content management, responsive design, and SEO optimization.',
+      tech: ['Symfony', 'PHP', 'MySQL', 'Bootstrap'],
+      link: 'https://pescamar.info',
+      icon: '🐟',
+      color: '#96CEB4',
+      status: 'Live'
+    }
+     {
+      id: 5,
+      title: 'Python File Organizer',
       description: 'A Symfony-based website that showcases my early work in web development.',
       longDescription: 'My first professional web development project during internship. A fully functional business website with content management, responsive design, and SEO optimization.',
       tech: ['Symfony', 'PHP', 'MySQL', 'Bootstrap'],
