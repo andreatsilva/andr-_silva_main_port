@@ -72,7 +72,7 @@ const Projects = () => {
       color: '#96CEB4',
       status: 'Live'
     },
-    
+
     {
       id: 5,
       title: 'Python File Organizer',
@@ -125,7 +125,6 @@ const Projects = () => {
                   </span>
                 </div>
               </div>
-
               <div className="project-content">
                 <h3 className="project-title">{project.title}</h3>
                 <p className="project-description">{project.description}</p>
