@@ -71,8 +71,8 @@ const Projects = () => {
       icon: '🐟',
       color: '#96CEB4',
       status: 'Live'
-    }
-     {
+    },
+    {
       id: 5,
       title: 'Python File Organizer',
       description: 'A Symfony-based website that showcases my early work in web development.',
