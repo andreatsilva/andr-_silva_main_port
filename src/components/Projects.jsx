@@ -78,7 +78,7 @@ const Projects = () => {
       title: 'OrganizeMyFiles',
       description: 'A desktop application that helps users organize their files automatically based on predefined rules.',
       longDescription: 'A simple Python script that helps you organize files in a folder into categorized subfolders (Images, Documents, Videos, Music, Archives, and Others). It also gives you the option to clean your Windows Recycle Bin.',
-      tech: ['Symfony', 'PHP', 'MySQL', 'Bootstrap'],
+      tech: ['Python, Tkinter', 'File Management'],
       link: 'https://github.com/andreatsilva/OrganizeMyFiles',
       icon: '✅',
       color: '#4ECDC4',
