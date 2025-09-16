@@ -70,13 +70,6 @@ const Contact = () => {
       color: '#FF6B6B'
     },
     {
-      icon: '💼',
-      title: 'LinkedIn',
-      value: 'Connect with me',
-      link: 'https://www.linkedin.com/in/andre-silva',
-      color: '#0077B5'
-    },
-    {
       icon: '🐙',
       title: 'GitHub',
       value: 'andreatsilva',
